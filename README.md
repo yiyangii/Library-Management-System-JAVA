@@ -16,6 +16,7 @@ The library management system is a beginner friendly open-source project, which 
 
 # Proposed Contribution:
 Conceive new functions for each class according to the existing logical architecture. For example, the introduction of check-in, check-out to the employee's class to record working time as a performance appraisal. Provides e-book rental services for borrowers and can send connections to the borrowers’ electronic devices.
+In addition, try to establish an employee management system, implement meeting functions, and weekly schedules. Using the database to provide a more complete user experience for borrowers, including providing a wish list, a recommended list, and a reminder function for returning books.
 
 # URL:
 Java SE Development Kit 8 (JDK 8)
