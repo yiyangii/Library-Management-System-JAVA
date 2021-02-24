@@ -22,6 +22,7 @@ In addition, try to establish an employee management system, implement meeting f
 
 Java SE Development Kit 8 (JDK 8)
 After installing JDK 8, install NetBeans IDE
+
 2- Open NetBeans IDE. Click on File -> Open Project and browse to the downloaded folder named "Project" and select it. It will load the NetBeans project.
 
 3- Now everything is setup except the Java DB (Derby) Database of NetBeans. So, follow these steps to setup the database:
